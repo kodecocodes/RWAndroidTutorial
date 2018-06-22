@@ -12,8 +12,6 @@ First, download RWAndroidTutorial.zip from this repo and use that. Tutorial samp
 
 After downloading and unzipping the skeleton project, several pieces should be changed to unique values such that they are relevant to the tutorial under development, including:
 
-- Select project in project navigator and rename the project
-  - Xcode will prompt to rename targets and other metafiles as well - select all of them
 - Refactor the package name to match the sample app you are building (search for instructions on how to do this, e.g. [here](https://stackoverflow.com/questions/16804093/android-studio-rename-package))
 - Change the colors in `colors.xml` to what you want for your tutorial
 - (Optional): Update the app icon
