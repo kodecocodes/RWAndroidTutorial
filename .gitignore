@@ -68,4 +68,5 @@ fastlane/readme.md
 
 .DS_Store
 .idea/vcs.xml
-
+.idea/misc.xml
+.idea/modules.xml
