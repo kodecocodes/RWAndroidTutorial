@@ -67,5 +67,8 @@ fastlane/readme.md
 # Custom
 
 .DS_Store
-.idea/
+.idea/modules.xml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/runConfigurations.xml
 
