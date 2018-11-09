@@ -1,5 +1,7 @@
 # ANDROID TUTORIAL, TEMPLATE APP PROJECT
 
+[Switch to pre-androidx branch](https://github.com/raywenderlich/RWAndroidTutorial/tree/pre_androidx)
+
 ## SUMMARY
 
 This project is a barebones Android Studio project that implements the code style and formatting standards for raywenderlich.com Android Tutorial Sample Projects.
