@@ -6,6 +6,7 @@ apply plugin: 'kotlin-android-extensions'
 
 android {
   compileSdkVersion rootProject.ext.compileSdkVersion
+
   defaultConfig {
     applicationId "com.raywenderlich.android.rwandroidtutorial"
     minSdkVersion rootProject.ext.minSdkVersion
@@ -14,6 +15,7 @@ android {
     versionName "1.0"
     testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
   }
+
   buildTypes {
     release {
       minifyEnabled false
@@ -29,13 +31,13 @@ dependencies {
   implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 
   // Support Libraries
-  implementation 'androidx.appcompat:appcompat:1.0.1'
+  implementation 'androidx.appcompat:appcompat:1.0.2'
   implementation 'androidx.constraintlayout:constraintlayout:2.0.0-alpha2'
 
   // TUTORIAL DEPENDENCIES HERE
 
   // Testing Dependencies
   testImplementation 'junit:junit:4.12'
-  androidTestImplementation 'androidx.test:runner:1.1.0'
-  androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.0'
+  androidTestImplementation 'androidx.test:runner:1.1.1'
+  androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
 }
