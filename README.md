@@ -73,4 +73,4 @@ Several pieces should be changed to unique values such that they are relevant to
 
 - Rename the top-level directory to match your sample project name
 
-- If you are planning to use git and GitHub to manage your sample project development, be sure to start with the .gitignore file on the Android Team Guide [here](https://www.raywenderlich.com/tutorial-team/android-team-guide). However, don't forget that once done, you sill need to package the Sample App (both starter and final) in a zip file that does not include any GIT artifacts!
+- If you are planning to use git and GitHub to manage your sample project development, be sure to start with the .gitignore file on the Android Team Guide [here](https://www.raywenderlich.com/tutorial-team/android-team-guide). However, don't forget that once done, you still need to package the Sample App (both starter and final) in a zip file that does not include any GIT artifacts!
